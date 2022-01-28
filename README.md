@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OmarTheeb
+- 👀 I’m interested in android apps API designing
+- 🌱 I’m currently learning flutter/python
+- 📫 reach me on omaramjadatieh@gmail.com
