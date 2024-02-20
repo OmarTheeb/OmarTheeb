@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @OmarTheeb
-- 👀 I’m interested in android apps API designing
-- 🌱 I’m currently learning flutter/python
+- 👀 I’m interested in Multi-Access Edge Computing, Cybersecurity, Distributed Systems, Game hacking and ZT Framework
 - 📫 reach me on omaramjadatieh@gmail.com
